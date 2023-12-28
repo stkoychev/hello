@@ -1,2 +1,8 @@
 # hello
-test2
+## test2
+### heading
+
+**bold**
+*italic*
+~~crossed~~
+`code`
