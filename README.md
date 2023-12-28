@@ -6,5 +6,5 @@
 *italic*
 ~~crossed~~
 `code`
-~~more changes~~
+~~more change~~
 `adding feature`
